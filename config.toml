@@ -12,7 +12,7 @@ publishDir = "docs"
     year = 2019
     avatar = "/images/teekam.jpeg"
     background = "/images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
+    favicon = "/images/gt_favicon.png"
     DateForm = "May 26, 2019"
 
     showSubheader = true
@@ -23,9 +23,6 @@ publishDir = "docs"
 
     footerEnableContact = true
     footerEnableFollowme = true
-    footerEnableTextWidget = true
-    footerEnableFormWidget = true
-
 [[menu.main]]
     name = "home"
     url = "/"
